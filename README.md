@@ -24,6 +24,7 @@ tLOS построена на WebAssembly и wasmCloud: каждый компон
 | **Shaper (Sovereign)** | Пользователь с полной цифровой автономией и криптографической волей в своем пространстве.          | [sovereign.md](docs/product/sovereign_model.md)     |
 | **Sovereign Runtime** | Роль ОС как доверенной среды исполнения, гарантирующей суверенность данных и кода.                 | [economy.md](docs/product/economy_and_intelligence.md) |
 | **WIT / wRPC**      | Стандарты строго типизированного взаимодействия компонентов без использования legacy-протоколов.    | [kernel_api.md](docs/technical/kernel/kernel_api.md) |
+| **AI Shield**         | Проактивный слой защиты ("Иммунная система"), блокирующий вредоносные намерения агентов.           | [security.md](docs/technical/kernel/security.md)     |
 | **Zero-Web2**       | Принцип полного отказа от централизованных посредников и протоколов HTTP/REST внутри системы.         | [zero_web2.md](docs/technical/protocol/zero_web2_standards.md) |
 
 ---
