@@ -41,6 +41,7 @@ docs/
 │   ├── spatial_experience.md
 │   ├── gamification.md
 │   ├── economy_and_intelligence.md
+│   ├── investor_tech_vision.md        ← Новое: Видение для партнеров
 │   └── social_and_identity.md
 └── technical/                     ← Техническая реализация
     ├── architecture.md
@@ -77,6 +78,10 @@ docs/
 | architecture.md               | Разработчики, архитекторы             | C4-модель системы (Context → Containers → Components).                             | Актуален    | 15 мин      |
 | use_cases.md                  | Продуктологи, маркетинг, пользователи | Сценарии использования для Founder, Developer, Creator.                            | Актуален    | 12 мин      |
 | spatial_experience.md         | Дизайнеры, UX, фронтенд               | Пространственная механика, Omnibar, навигация.                                     | Актуален    | 15 мин      |
+| gamification.md               | Все                                   | Метафора "Цифровой Цитадели" и визуальная прогрессия.                               | Актуален    | 10 мин      |
+| economy_and_intelligence.md   | Инвесторы, пользователи               | Экономика "Двигатель и Газ", маркетплейс.                                         | Актуален    | 12 мин      |
+| investor_tech_vision.md       | Инвесторы, партнеры                  | Технологическое видение через аналогию с мозгом.                                   | Актуален    | 8 мин       |
+| social_and_identity.md        | Все                                   | Web of Trust, Proof of Humanity, социальные графы.                                 | Актуален    | 12 мин      |
 | agent_ecosystem.md            | AI-разработчики, агенты               | Роли агентов (Shapers, Workers, Watchers), безопасность.                            | Актуален    | 12 мин      |
 | kernel_api.md                 | Core-разработчики                     | WIT-интерфейсы ядра, Dual-Layer API (low-level + MCP).                             | Актуален    | 20 мин      |
 | security.md                   | Security, все разработчики            | Zero Trust, threat model, AI-specific угрозы.                                      | Актуален    | 18 мин      |
@@ -119,8 +124,9 @@ docs/
 3. [sovereign_model.md](docs/product/sovereign_model.md)
 4. [use_cases.md](docs/product/use_cases.md)
 5. [economy_and_intelligence.md](docs/product/economy_and_intelligence.md)
-6. [gamification.md](docs/product/gamification.md)
-7. [social_and_identity.md](docs/product/social_and_identity.md)
+6. [investor_tech_vision.md](docs/product/investor_tech_vision.md)
+7. [gamification.md](docs/product/gamification.md)
+8. [social_and_identity.md](docs/product/social_and_identity.md)
 
 ### Трек D: Новый пользователь / Тестировщик (≈ 45 мин)
 1. [manifesto.md](docs/product/manifesto.md)

@@ -22,6 +22,7 @@
 *Взаимодействие жителей и ресурсы.*
 - **[Social & Identity](social_and_identity.md)** — Web of Trust, Nostr и децентрализованный паспорт.
 - **[Economy & Intelligence](economy_and_intelligence.md)** — Модель "Pay-for-Intelligence" и интеграция с Akash.
+- **[Investor Tech Vision](investor_tech_vision.md)** — Видение для партнеров (аналогия с мозгом).
 - **[Agent Ecosystem](../technical/agents/agent_ecosystem.md)** — Роли агентов (Shapers, Workers, Watchers).
 
 ---
