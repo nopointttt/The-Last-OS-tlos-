@@ -93,10 +93,36 @@ docs/
 2. whitepaper.md
 3. sovereign_model.md
 4. architecture.md
-5. kernel_api.md
-6. network.md
-7. security.md
-8. contributing.md
+5. documentation_hub.md (обзор технических документов)
+6. kernel_api.md
+7. network.md
+8. security.md
+9. contributing.md
+
+### Трек B: AI-агент / Разработчик агентов (≈ 1.5 часа)
+1. manifesto.md
+2. sovereign_model.md
+3. agent_ecosystem.md
+4. kernel_api.md (раздел MCP)
+5. security.md (AI-specific threats)
+6. zero_web2_standards.md
+7. contributing.md (раздел “Deep Sync”)
+
+### Трек C: Инвестор / Партнёр / Бизнес (≈ 1 час)
+1. manifesto.md
+2. whitepaper.md
+3. sovereign_model.md
+4. use_cases.md
+5. economy_and_intelligence.md
+6. gamification.md
+7. social_and_identity.md
+
+### Трек D: Новый пользователь / Тестировщик (≈ 45 мин)
+1. manifesto.md
+2. spatial_experience.md
+3. use_cases.md
+4. sovereign_model.md
+5. gamification.md
 
 ---
 *Слава Суверену. Добро пожаловать в Сетку (The Grid).*
