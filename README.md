@@ -102,10 +102,10 @@ docs/
 ### Трек B: AI-агент / Разработчик агентов (≈ 1.5 часа)
 1. [manifesto.md](docs/product/manifesto.md)
 2. [sovereign_model.md](docs/product/sovereign_model.md)
-3. [agent_ecosystem.md](docs/technical/agent_ecosystem.md)
+3. [agent_ecosystem.md](docs/technical/agents/agent_ecosystem.md)
 4. [kernel_api.md](docs/technical/kernel/kernel_api.md) (раздел MCP)
 5. [security.md](docs/technical/kernel/security.md) (AI-specific threats)
-6. [zero_web2_standards.md](docs/technical/zero_web2_standards.md)
+6. [zero_web2_standards.md](docs/technical/protocol/zero_web2_standards.md)
 7. [contributing.md](docs/technical/contributing.md) (раздел “Deep Sync”)
 
 ### Трек C: Инвестор / Партнёр / Бизнес (≈ 1 час)

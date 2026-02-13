@@ -35,7 +35,7 @@
 35:   - Код должен проходить проверку `cargo fmt` и `cargo clippy`.
 36:   - Минимизируйте `clone()` и используйте идиоматичные абстракции (Iterators).
 37:   - Актёры должны взаимодействовать через WIT-интерфейсы.
-38:   - **Zero-Web2**: Использование HTTP, REST и других legacy-протоколов запрещено. См. [Zero-Web2 Standards](zero_web2_standards.md).
+38:   - **Zero-Web2**: Использование HTTP, REST и других legacy-протоколов запрещено. См. [Zero-Web2 Standards](protocol/zero_web2_standards.md).
 39: - **Frontend (SolidJS/WGPU)**:
   - Используйте компоненты из нашей Design System.
   - Весь UI должен быть доступным (A11y).

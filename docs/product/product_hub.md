@@ -9,8 +9,8 @@
 ### 1. Фундамент и Видение
 *Основные идеи и конституция системы.*
 - **[Manifesto](manifesto.md)** — Конституция tLOS: от приложений к намерениям.
-- **[The Last OS Vision](../technical/vision/whitepaper.md)** — Общий концептуальный обзор (Whitepaper).
-- **[Sovereign Model](../technical/vision/sovereign_model.md)** — Модель цифрового суверенитета пользователя.
+- **[The Last OS Vision](whitepaper.md)** — Общий концептуальный обзор (Whitepaper).
+- **[Sovereign Model](sovereign_model.md)** — Модель цифрового суверенитета пользователя.
 
 ### 2. Пользовательский Опыт (UX/UI)
 *Как система ощущается и выглядит.*
@@ -22,7 +22,7 @@
 *Взаимодействие жителей и ресурсы.*
 - **[Social & Identity](social_and_identity.md)** — Web of Trust, Nostr и децентрализованный паспорт.
 - **[Economy & Intelligence](economy_and_intelligence.md)** — Модель "Pay-for-Intelligence" и интеграция с Akash.
-- **[Agent Ecosystem](../technical/agent_ecosystem.md)** — Роли агентов (Shapers, Workers, Watchers).
+- **[Agent Ecosystem](../technical/agents/agent_ecosystem.md)** — Роли агентов (Shapers, Workers, Watchers).
 
 ---
 

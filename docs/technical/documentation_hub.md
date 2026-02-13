@@ -19,7 +19,7 @@
 - **[Cryptography Specs](protocol/crypto.md)** — Протоколы шифрования и гибридный обмен ключами.
 - **[Network Architecture](protocol/network.md)** — Спецификация Lattice и транспортного слоя NATS.
 - **[Distributed Data Structures](protocol/data_structures.md)** — Математика CRDT и форматы событий.
-22: - **[Zero-Web2 Standards](zero_web2_standards.md)** — Жесткие ограничения на использование Web2 протоколов (HTTP/REST/etc).
+22: - **[Zero-Web2 Standards](protocol/zero_web2_standards.md)** — Жесткие ограничения на использование Web2 протоколов (HTTP/REST/etc).
 23: 
 24: ### 2. Ядро Системы (Layer 1: The Kernel)
 *Низкоуровневая реализация на Rust и Wasm.*
@@ -32,14 +32,14 @@
 *Стандарты взаимодействия акторов и системы.*
 - **[Actor Interface System](../../actor_interface.md)** — Стандарты экспорта/импорта WIT для сторонних агентов.
 - **[Agent Manifest Spec](../../agent_manifest.md)** — Техническая схема прав и возможностей (Capabilities) агента.
-- **[Agent Ecosystem](agent_ecosystem.md)** — Техническая структура акторов (Shapers, Workers, Watchers).
+- **[Agent Ecosystem](agents/agent_ecosystem.md)** — Техническая структура акторов (Shapers, Workers, Watchers).
 - **[Spatial System Math](shell/spatial_math.md)** — Математика бесконечного холста, координаты и проекции.
 - **[State Management](shell/state_management.md)** — Синхронизация распределенного состояния и реактивность.
 - **[Design System Tokens](shell/design_system.md)** — Спецификация UI-токенов и генеративной верстки.
 
 ### 4. Инфраструктура и Оперирование
 *Техническое обслуживание и деплой узлов.*
-- **[Infrastructure & Ops Spec](infrastructure_ops.md)** — Спецификация развертывания в Akash и Docker/Podman.
+- **[Infrastructure & Ops Spec](infra/infrastructure_ops.md)** — Спецификация развертывания в Akash и Docker/Podman.
 
 ---
 
